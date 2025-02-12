@@ -25,8 +25,8 @@ open index.html
 3. Customization
 You can customize the following elements:
 
-# Clock Style: Modify the styles.css file to change the background, font, text color, and overall layout of the clock.
-# Clock Format: The clock uses a 24-hour format. You can modify the JavaScript code (script.js) to switch to a 12-hour format if desired.
+ Clock Style: Modify the styles.css file to change the background, font, text color, and overall layout of the clock.
+Clock Format: The clock uses a 24-hour format. You can modify the JavaScript code (script.js) to switch to a 12-hour format if desired.
 # Technologies Used ⚙️
 HTML: Structure of the digital clock.
 CSS: Styling and layout of the clock.
